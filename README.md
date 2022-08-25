@@ -1,4 +1,4 @@
-# FLEXBOX Course
+# Flexbox Course
 
 Flexbox is a very important and useful tool in CSS | Flexbox Course
 
